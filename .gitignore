@@ -1,0 +1,24 @@
+# Salida de compilación
+Win32/
+Win64/
+__history/
+__recovery/
+*.dcu
+*.exe
+*.dll
+*.bpl
+*.dcp
+*.map
+*.drc
+*.rsm
+*.identcache
+*.local
+*.stat
+*.dsk
+
+# Bases de datos y comprimidos
+*.FDB
+*.fdb
+*.GDB
+*.rar
+*.zip

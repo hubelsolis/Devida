@@ -1,0 +1,1 @@
+ALTER TABLE PADRON ADD cony_fecNac Date;

@@ -1,0 +1,66 @@
+object FrmVistaPrevia: TFrmVistaPrevia
+  Left = 0
+  Top = 0
+  ClientHeight = 361
+  ClientWidth = 592
+  Caption = 'FrmVistaPrevia'
+  BorderStyle = bsNone
+  WindowState = wsMaximized
+  OldCreateOrder = False
+  BorderIcons = []
+  MonitoredKeys.Keys = <>
+  OnCreate = UniFormCreate
+  PixelsPerInch = 96
+  TextHeight = 13
+  object UniURLFrame1: TUniURLFrame
+    Left = 0
+    Top = 32
+    Width = 592
+    Height = 329
+    Hint = ''
+    Align = alClient
+    TabOrder = 0
+    ParentColor = False
+    Color = clBtnFace
+    ExplicitLeft = 1
+    ExplicitTop = 37
+  end
+  object UniPanel1: TUniPanel
+    Left = 0
+    Top = 0
+    Width = 592
+    Height = 32
+    Hint = ''
+    Align = alTop
+    TabOrder = 1
+    Caption = 'Reporte'
+    object UniBitBtn1: TUniBitBtn
+      Left = 554
+      Top = 1
+      Width = 37
+      Height = 30
+      Hint = ''
+      Caption = 'X'
+      Align = alRight
+      ParentFont = False
+      Font.Height = -16
+      Font.Style = [fsBold]
+      TabOrder = 1
+      OnClick = UniBitBtn1Click
+    end
+    object UniBitBtn2: TUniBitBtn
+      Left = 1
+      Top = 1
+      Width = 68
+      Height = 30
+      Hint = ''
+      Caption = 'Cerrar'
+      Align = alLeft
+      ParentFont = False
+      Font.Height = -12
+      Font.Style = [fsBold]
+      TabOrder = 2
+      OnClick = UniBitBtn2Click
+    end
+  end
+end

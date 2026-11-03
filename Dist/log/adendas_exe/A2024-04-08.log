@@ -1,0 +1,15 @@
+Adendas.exe: 000013DC: 14:54:00 []:>--------------------------------------------------------------<
+Adendas.exe: 000013DC: 14:54:00 [TUniServerModule]:Server First Init.
+Adendas.exe: 000013DC: 14:54:00 [TUniServerModule]:Starting HTTP Server on Port: 8080...
+Adendas.exe: 000013DC: 14:54:00 [TUniServerModule]:HTTP Server Started on Port: 8080
+Adendas.exe: 000013DC: 14:55:08 [TUniServerModule]:Shutting Down Server.
+Adendas.exe: 000013DC: 14:55:08 [TUniServerModule]:Stopping HTTP Server.
+Adendas.exe: 000013DC: 14:55:09 [TUniServerModule]:HTTP Server Stopped.
+Adendas.exe: 000013DC: 14:55:09 [TUniGUISessionManager]:Terminating Session manager.
+Adendas.exe: 000013DC: 14:55:09 [TUniGUISessionManager]:Stopping Cache Eraser...
+Adendas.exe: 000013DC: 14:55:09 [TUniGUISessionManager]:Cache Eraser Stopped.
+Adendas.exe: 000013DC: 14:55:09 [TUniGUISessionManager]:Destroying Worker Threads.
+Adendas.exe: 000013DC: 14:55:09 [TUniGUISessionManager]:Session manager terminated.
+Adendas.exe: 000013DC: 14:55:09 [TUniServerModule]:Server Shutdown Completed.
+Adendas.exe: 000013DC: 14:55:09 []:<-------------------------------------------------------------->
+Adendas.exe: 000013DC: 14:55:09 [Terminated]:Exit Code: 0

@@ -1,0 +1,17 @@
+Adendas.exe: 00001B20: 20:08:00 []:>--------------------------------------------------------------<
+Adendas.exe: 00001B20: 20:08:00 [TUniServerModule]:Server First Init.
+Adendas.exe: 00001B20: 20:08:00 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Adendas.exe: 00001B20: 20:08:00 [TUniServerModule]:HTTP Server Started on Port: 8077
+Adendas.exe: 00000890: 20:08:22 [127.0.0.1]:Exception : None of the dynamic libraries can be found or is not loadable: D:\HSWARE\Devida\Win32\Debug\fbclient.dll !
+Use TZConnection.LibraryLocation if the location is invalid. : Addr: $00901ABF
+Adendas.exe: 00001B20: 20:15:04 [TUniServerModule]:Shutting Down Server.
+Adendas.exe: 00001B20: 20:15:04 [TUniServerModule]:Stopping HTTP Server.
+Adendas.exe: 00001B20: 20:15:05 [TUniServerModule]:HTTP Server Stopped.
+Adendas.exe: 00001B20: 20:15:05 [TUniGUISessionManager]:Terminating Session manager.
+Adendas.exe: 00001B20: 20:15:05 [TUniGUISessionManager]:Stopping Cache Eraser...
+Adendas.exe: 00001B20: 20:15:05 [TUniGUISessionManager]:Cache Eraser Stopped.
+Adendas.exe: 00001B20: 20:15:05 [TUniGUISessionManager]:Destroying Worker Threads.
+Adendas.exe: 00001B20: 20:15:05 [TUniGUISessionManager]:Session manager terminated.
+Adendas.exe: 00001B20: 20:15:05 [TUniServerModule]:Server Shutdown Completed.
+Adendas.exe: 00001B20: 20:15:05 []:<-------------------------------------------------------------->
+Adendas.exe: 00001B20: 20:15:05 [Terminated]:Exit Code: 0
